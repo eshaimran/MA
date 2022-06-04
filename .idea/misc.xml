@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/custom_button_back.xml" value="0.1835" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.178" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.153" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_screenshot_2022_05_30_023335.xml" value="0.1835" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_screenshot_2022_05_30_054512.xml" value="0.1775" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_screenshot_2022_05_30_054613.xml" value="0.1775" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/ic_vecteezy_handshake_icon_like_good_deal_simple_flat_style_trend_.xml" value="0.153" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/drawable/progress_back.xml" value="0.1835" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.10843373493975904" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_faq.xml" value="0.25" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_food.xml" value="0.14" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_login.xml" value="0.75" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_register.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_signuplogin.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/activity_splash.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_cart.xml" value="0.33" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_dashboard.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_deal.xml" value="0.33" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_home.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_notifications.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/menu/bottom_nav_menu.xml" value="0.28888888888888886" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1775" />
+        <entry key="..\:/Users/afshe/AndroidStudioProjects/lab9/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1835" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
